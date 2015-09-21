@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "your-filename"
 date: 2015-09-21T13:10:06.000Z
