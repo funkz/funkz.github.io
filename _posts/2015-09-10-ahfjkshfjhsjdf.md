@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
-date: 2015-09-21T13:10:06.000Z
+date: {}
 categories: jekyll
 ---
+
 
 
 ## A New Post
