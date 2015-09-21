@@ -1,6 +1,11 @@
 ---
 published: false
+layout: post
+title: fasfsa
+date: 2015-09-21T13:10:06.000Z
+categories: jekyll update
 ---
+
 
 ## A New Post
 
