@@ -1,6 +1,10 @@
 ---
 published: false
+layout: post
+date: 2015-09-21T13:10:06.000Z
+categories: jekyll
 ---
+
 
 ## A New Post
 
